@@ -1,25 +1,25 @@
-![logo]()
+![logo](https://github.com/AryanBhatt01/AryanBhatt01/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hey, I'm Aryan Bhatt</h1>
 <h3 align="center">Web Developer | Front-End & Back-End Specialist</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/fc/55/75/fc5575fec69b567384b1e7ea0ba85506.jpg">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 
-- 🔭 I’m currently working on **a full-stack web application using React and Node.js.**
+- I’m currently working on **a full-stack web application using React and Node.js.**
 
-- 🌱 I’m currently learning **advanced JavaScript frameworks and cloud computing technologies.**
+- I’m currently learning **advanced JavaScript frameworks and cloud computing technologies.**
 
-- 👯 I’m looking to collaborate on **innovative web development projects, open-source contributions, and cutting-edge tech solutions.**
+- I’m looking to collaborate on **innovative web development projects, open-source contributions, and cutting-edge tech solutions.**
 
-- 🤝 I’m looking for help with **optimizing performance, debugging complex issues, and exploring new technologies.**
+- I’m looking for help with **optimizing performance, debugging complex issues, and exploring new technologies.**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/](http://127.0.0.1:5500/)
+- All of my projects are available at [http://127.0.0.1:5500/](http://127.0.0.1:5500/)
 
 - 💬 Ask me about **web development best practices, full-stack projects, and modern JavaScript frameworks.**
 
-- 📫 How to reach me **aryanvisuals1@gmail.com**
+- 📧 How to reach me **aryanvisuals1@gmail.com**
 
-- ⚡ Fun fact **I once built a website that generates random dad jokes..**
+- Fun fact **I once built a website that generates random dad jokes..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
