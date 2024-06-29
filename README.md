@@ -13,7 +13,7 @@
 
 - I’m looking for help with **optimizing performance, debugging complex issues, and exploring new technologies.**
 
-- All of my projects are available at [http://127.0.0.1:5500/](http://127.0.0.1:5500/)
+- All of my projects are available at [https://dancing-daifuku-178d69.netlify.app/](https://dancing-daifuku-178d69.netlify.app/)
 
 - 💬 Ask me about **web development best practices, full-stack projects, and modern JavaScript frameworks.**
 
